@@ -1,0 +1,11 @@
+C:\Users\useradmin\Downloads\Tzelunwong\WindowsServices\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\useradmin\Downloads\Tzelunwong\WindowsServices\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\useradmin\Downloads\Tzelunwong\WindowsServices\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\useradmin\Downloads\Tzelunwong\WindowsServices\WindowsService\WindowsService\bin\Debug\WindowsService.xml
+C:\Users\useradmin\Downloads\Tzelunwong\WindowsServices\WindowsService\WindowsService\obj\Debug\WindowsService.vbproj.AssemblyReference.cache
+C:\Users\useradmin\Downloads\Tzelunwong\WindowsServices\WindowsService\WindowsService\obj\Debug\WindowsService.Resources.resources
+C:\Users\useradmin\Downloads\Tzelunwong\WindowsServices\WindowsService\WindowsService\obj\Debug\WindowsService.vbproj.GenerateResource.cache
+C:\Users\useradmin\Downloads\Tzelunwong\WindowsServices\WindowsService\WindowsService\obj\Debug\WindowsService.vbproj.CoreCompileInputs.cache
+C:\Users\useradmin\Downloads\Tzelunwong\WindowsServices\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\useradmin\Downloads\Tzelunwong\WindowsServices\WindowsService\WindowsService\obj\Debug\WindowsService.xml
+C:\Users\useradmin\Downloads\Tzelunwong\WindowsServices\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
