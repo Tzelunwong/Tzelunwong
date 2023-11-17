@@ -27,7 +27,7 @@ steps:
 - task: MSBuild@1
   inputs:
     solution: '**/*.sln'
-    msbuildVersion: '17.0'
+    msbuildVersion: '15.0'
     clean: true
     restoreNugetPackages: true
     logProjectEvents: true
