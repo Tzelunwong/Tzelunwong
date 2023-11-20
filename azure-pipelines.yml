@@ -13,10 +13,16 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 
+- task: NuGetCommand@2
+  inputs:
+    command: 'restore'
+    restoreSolution: '**/*.sln'
+    feedsToUse: 'select'
+
 - task: MSBuild@1
   inputs:
     solution: '**/*.sln'
-    msbuildVersion: '16.0'
+    msbuildVersion: '15.0'
     clean: true
     restoreNugetPackages: true
     logProjectEvents: true
