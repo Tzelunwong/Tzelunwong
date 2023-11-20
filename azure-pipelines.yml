@@ -9,6 +9,10 @@ trigger:
 pool:
   name: Instinct
 
+steps:
+- script: echo Hello, world!
+  displayName: 'Run a one-line script'
+
 - task: NuGetToolInstaller@1
     displayName: Use NuGet 5.8.x
     inputs:
