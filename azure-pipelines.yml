@@ -14,15 +14,16 @@ steps:
   displayName: 'Run a one-line script'
 
 - task: NuGetToolInstaller@1
-    displayName: Use NuGet 5.8.x
-    inputs:
-          versionSpec: 5.8.x
-          checkLatest: true
+  displayName: Use NuGet 5.8.x
+  inputs:
+    versionSpec: 5.8.x
+    checkLatest: true
+          
 - task: NuGetAuthenticate@1
-   displayName: NuGet Authenticate
-     inputs:
-      nuGetServiceConnections: 1533d233-cb15-4a72-98f2-4c6500403486
-      forceReinstallCredentialProvider: true
+  displayName: NuGet Authenticate
+  inputs:
+    nuGetServiceConnections: 1533d233-cb15-4a72-98f2-4c6500403486
+    forceReinstallCredentialProvider: true
 
 - task: NuGetCommand@2
   inputs:
